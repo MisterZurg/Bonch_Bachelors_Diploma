@@ -1,5 +1,5 @@
 # Bonch_Bachelors_Diploma
-![Иллюстрация к проекту](Resourses\README-wallpaper.png)
+![Иллюстрация к проекту](Resourses/README-wallpaper.png)
 > Diploma thesis: "Exploring the use of automation technologies to improve information security in computer networks" released under Creative Commons license
 
 Author: Zakharov Denis Arturovich (me)
