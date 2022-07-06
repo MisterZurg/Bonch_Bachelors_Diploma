@@ -8,6 +8,8 @@ Supervisor: Ushakov Igor Alexandrovich
 
 ## Contents
 * Diploma
+  * [Text of the Masterpiece](Bachelors-Diploma.pdf)
+  * [Slides of the Masterpiece (short)](Diploma-Slides-Short-Ver.pdf)
 * [Appendix I — Laboratry](Laboratory/README.md)
 * [Appendix II — Packet Tracer Activities](Packet-Tracer-Activities)
 * [Appendix III — Projects](Projects)
