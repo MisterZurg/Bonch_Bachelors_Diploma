@@ -8,15 +8,15 @@ Supervisor: Ushakov Igor Alexandrovich
 
 ## Contents
 * Diploma
-* Appendix I — Extra Theory
-* [Appendix II — Laboratry](Laboratory/README.md)
-* [Appendix III — Packet Tracer Activities](Packet-Tracer-Activities)
-* [Appendix IV — Projects](Projects)
-  * Project I
-  * Project II
-  * Project III
-  * Project IV
-  * Project VI
+* [Appendix I — Laboratry](Laboratory/README.md)
+* [Appendix II — Packet Tracer Activities](Packet-Tracer-Activities)
+* [Appendix III — Projects](Projects)
+  * [Project I — Team Formation](Projects/PJ-1-Team-Formation.md)
+  * [Project II — Agile Team Formation](Projects/PJ-2-Agile-Team-Formation.md)
+  * [Project III — Social coding](Projects/PJ-3-Social-coding.md)
+  * [Project IV — Automationg Testing and Deploy](Projects/PJ-4-Automationg-Testing-and-Deploy.md)
+  * [Project VI — Programming and Network Automation](Projects/PJ-5-Programming-and-Network-Automation.md)
+* Appendix IV — Extra Theory
 * Appendix V — Diograms & illustrations
 
 ## Used Materials
